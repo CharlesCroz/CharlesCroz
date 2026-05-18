@@ -4,12 +4,13 @@
 
 I am Charles Croz. 
 
-Currently studying ID3D (Image, Development and 3D Technologies) at Université Claude Bernard - Lyon 1.
+Currently working as Embedded Software at Promethee Earth Intelligence in Toulouse, France.
+Formerly studying ID3D (Image, Development and 3D Technologies) at Université Claude Bernard - Lyon 1.
 
 ## How to contact me ?
 
-- I am a student at a public university. ```charles.croz[at]etu.univ-lyon1.fr```
-- I am a nerd. I probably have a Raspberry Pi plugged to my ISP box. ```[given name].[surname].fr``` (I do ***not*** develop Web Apps)
+- Here ?
+- Try ```charles.croz[at]protonmail.com```
 
 ## Why contact me ?
 
